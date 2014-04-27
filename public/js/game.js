@@ -1,6 +1,6 @@
 "use strict";
 
-var enemyProbablilityPerSecond=0.5;
+var enemyProbablilityPerSecond=0.1;
 var canvasWidth = 800;
 var canvasHeight= 500;
 var lastTime=0;
