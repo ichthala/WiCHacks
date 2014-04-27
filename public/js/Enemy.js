@@ -12,7 +12,7 @@ window.Enemy = (function(){
 		this.x = this.canvasWidth/4+Math.random()*this.canvasWidth/2;
 		this.y= 0;
 		this.xVelocity=0;
-		this.yVelocity=200;
+		this.yVelocity=10;
 		this.width= 50;
 		this.height=50;
 	};
